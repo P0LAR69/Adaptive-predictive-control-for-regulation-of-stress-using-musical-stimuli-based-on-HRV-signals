@@ -1,3 +1,3 @@
-# Aadaptive-mpc-stress-regulation
+# mpc-music-stress-control
 Adaptive closed-loop MPC system for personalized stress regulation through musical stimuli. Models subject physiology via recursive ARX identification on HRV signals. Extremum Seeking Control adjusts relaxation targets dynamically. Validated through simulation and human trials: +11.8% Time-in-Range vs open-loop music
 
